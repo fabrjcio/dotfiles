@@ -1,1 +1,1 @@
-alias stopcs='gh codespace stop --self'
+alias stopcs='gh codespace stop'
